@@ -14,12 +14,12 @@ header {
 }
 
 h1 {
-    color: #cccbd1;
+    color: #1e1e20;
 }
 
 main {
     background-color: #e5e6e0;
-    color: #dadbdd;
+    color: #1c1e22;
     max-width: 800px;
     margin: 0 auto;
     padding: 16px;
@@ -33,7 +33,7 @@ article {
 img {
     width: 150px;       /* define a largura fixa da imagem */
     height: 150px;      /* define a altura fixa da imagem */
-    border: 2px solid #d0d0d1; /* adiciona uma borda sólida de 2px na cor azul/roxa */
+    border: 2px solid #101016; /* adiciona uma borda sólida de 2px na cor azul/roxa */
     display: block;     /* transforma a imagem em um bloco para aceitar margens verticais e quebra de linha */
     margin: 0 auto;    /* centraliza a imagem horizontalmente na tela */
     align-self: center;
